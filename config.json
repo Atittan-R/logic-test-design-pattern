@@ -1,0 +1,46 @@
+{
+    "id": 9,
+    "settings": [
+        {
+            "id": "f612d046-8e3f-4091-a771-a148fca46475",
+            "params": [
+                {
+                    "key": "mail_cc",
+                    "value": "Nimit.Srisongkram@gmail.com"
+                },
+                {
+                    "key": "mail_to",
+                    "value": "Nimit.Srisongkram@gmail.com"
+                },
+                {
+                    "key": "mail_from",
+                    "value": "service@didatravel.com"
+                }
+            ],
+            "channel": "Traveloka.com",
+            "subject": "Test"
+        },{
+            "id": "f612d046-8e3f-4091-a771-a148fca46475",
+            "params": [
+                {
+                    "key": "mail_cc",
+                    "value": "Nimit.Srisongkram@gmail.com"
+                },
+                {
+                    "key": "mail_to",
+                    "value": "Nimit.Srisongkram@gmail.com"
+                },
+                {
+                    "key": "mail_from",
+                    "value": "service@didatravel.com"
+                }
+            ],
+            "channel": "didatravel.com",
+            "subject": "EBooking - New Booking -"
+        }
+    ],
+    "created_by": "porza2",
+    "updated_by": "porza2",
+    "created_at": "2022-07-10T20: 14: 59.000+07: 00",
+    "updated_at": "2022-07-10T23: 05: 07.000+07: 00"
+}
